@@ -36,7 +36,14 @@ h1 {
   letter-spacing: 8px;
   text-align: left;
 }
- 
+img{
+  float:right;
+  width:160px;
+  transform: rotate(7deg);
+  box-shadow: 4px 4px 4px #999999;
+  
+}
+    
 section  {
   font-family: helvetica, arial, sans-serif;
 }
